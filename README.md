@@ -1,6 +1,6 @@
 # Pokémon VGC Team Builder Pipeline (Databricks)
 
-This project builds a **data engineering pipeline and recommendation system** for competitive Pokémon VGC team building.
+This project builds a **data engineering pipeline and recommendation system** for competitive Pokémon VGC team building. It is currently in progress so items will change over time.
 
 Using **Databricks, Apache Spark, and Delta Lake**, the pipeline ingests Pokémon metadata from PokéAPI and tournament team compositions from competitive VGC events. The processed data is used to analyze team synergy and generate AI-powered team recommendations.
 
